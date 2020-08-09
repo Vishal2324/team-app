@@ -1,0 +1,59 @@
+.TeamDetail{
+    width: 75%;
+    background-color: #fff;;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.userListContainer{
+    height: 90%;
+    overflow-x: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.teamName{
+    height: 10%;
+    padding: 0px 20px;
+    color: #888;
+}
+
+
+
+/* cskdlckfmvdfk */
+
+.somePageWrapper {
+  margin: 15px;
+  background-color: red;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.orangeColumn {
+  background-color: orange;
+  height: 100px;
+}
+
+.blueColumn {
+  background-color: blue;
+  height: 100px;
+}
+
+.greenColumn {
+  background-color: green;
+  height: 100px;
+}

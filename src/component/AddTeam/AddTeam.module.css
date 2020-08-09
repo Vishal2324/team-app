@@ -1,0 +1,31 @@
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+.formControl{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    margin: 0px 20px;
+}
+
+.formControl input, select{
+    width: auto;
+    height: 30px;
+    background-color: #89a0a9;
+}
+
+.formControl button{
+    width: 150px;
+    height: 40px;
+    background-color: #f7a601;
+    margin-top: 14px;
+    border: 1px solid #f7a601;
+    cursor: pointer;
+    border-radius: 5px;
+}

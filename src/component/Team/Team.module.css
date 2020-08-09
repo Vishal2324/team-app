@@ -1,0 +1,13 @@
+.Team{
+    background-color: #fff;
+    margin: 10px 0px;
+    height: 40px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-right: 5px solid #f7a601;
+}
+
+.selected {
+    background-color: #edb647;
+    color: #fff;
+}

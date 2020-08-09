@@ -1,0 +1,20 @@
+.header{
+    background-color: #89a0a9;
+    height: 80px;
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 10px 10px;
+}
+
+.teamForm {
+    width: 50%;
+    background-color: #fff;
+    display: flex;
+}
+
+.searchForm{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
